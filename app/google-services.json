@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32599585033",
+    "project_id": "voyago-85806",
+    "storage_bucket": "voyago-85806.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32599585033:android:f2e3ea5a3b455fab3363d8",
+        "android_client_info": {
+          "package_name": "com.example.voyago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32599585033-lfcp2kf9f2svsbqfrpthi5eho27n0t1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voyago",
+            "certificate_hash": "cb029434e1610de764c8f07548cd63ea37b07aea"
+          }
+        },
+        {
+          "client_id": "32599585033-j4ftng63s72mt1fb3jhc7msco0b9o1le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jUtSVuuJn1bXeFbCZDZXs7fe5zFvjck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32599585033-j4ftng63s72mt1fb3jhc7msco0b9o1le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
